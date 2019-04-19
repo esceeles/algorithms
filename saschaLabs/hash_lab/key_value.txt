@@ -1,0 +1,3 @@
+"Portland State University": {"founded":"1956", "Students": 28241}
+"University of Oregon": {"founded":"1876", "Students": 22980}
+"Oregon State University": {"founded": "1868", "Students": 30896}

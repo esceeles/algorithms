@@ -1,0 +1,6 @@
+Enter a file name: data19.txt
+Ammount to liquidate: $36568
+
+real    30m37.987s
+user    30m35.664s
+sys     0m0.160s

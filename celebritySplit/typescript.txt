@@ -1,0 +1,8 @@
+Script started on 2019-01-18 07:49:02-0800
+esceeles@icadyptes:~/newBeginnings/winter/theory/homework/celebritySplit$ ./celebritySplit 
+Enter a file name: data7.txt
+Ammount to liquidate: $810
+esceeles@icadyptes:~/newBeginnings/winter/theory/homework/celebritySplit$ exit
+exit
+
+Script done on 2019-01-18 07:49:09-0800
